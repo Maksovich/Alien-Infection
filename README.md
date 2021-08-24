@@ -1,6 +1,6 @@
 # Alien Infection (ID4322062)
 
-EN: The modification adds god mode and fast fire.
+EN: Modification adds god mode and fast fire.
 
 #### How to use:
 
